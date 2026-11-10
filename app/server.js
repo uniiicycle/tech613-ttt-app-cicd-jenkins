@@ -1111,6 +1111,7 @@ function createServer({ port = 3000, logger, metrics } = {}) {
 					</head>
 					<body class="retro-shell">
 						<h1 class="retro-title">Tic Tac Toe</h1>
+						<p class="deploy-stamp">Deployed by Jackson via Jenkins CI/CD: 10 Nov 2026 11:26</p>
 						<div class="layout">
 							<div class="game-column">
 								<section class="panel">
