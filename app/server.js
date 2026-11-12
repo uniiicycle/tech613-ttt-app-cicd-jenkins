@@ -1113,7 +1113,7 @@ function createServer({ port = 3000, logger, metrics } = {}) {
 						<h1 class="retro-title">Tic Tac Toe</h1>
 						<div class="layout">
 							<div class="game-column">
-								<p class="deploy-stamp">Deployed by Jackson via Jenkins CI/CD: 10 Nov 2026 11:26</p>
+								<p class="deploy-stamp">Deployed by Jackson via Jenkins CI/CD: 12 Nov 2026 09:53</p>
 								<section class="panel">
 									<div class="status-row">
 										<div class="status-stack">
